@@ -1,6 +1,6 @@
 # Computer Architecture using Raspberry Pi 
 
-This repository contains an overview of what I learned while auditing Stanford's class on Computer Systems. 
+This repository contains an overview of what I learned while auditing Stanford's class on Computer Systems. Code is available upon request. 
 
 ## The Course Content 
 
