@@ -27,7 +27,7 @@ Parallel to the courses were assignments, which aimed to build a computer system
 
 ## Final Project: A Musical Keyboard and Shell 
 
-There was also a final project, which was to be chosen freely within teams. My team chose to implement a musical keyboard with a graphic interface and shell. 
+There was also a final project, which was to be chosen freely within teams. My teammate and I chose to implement a musical keyboard with a graphic interface and shell. 
 
 ### Project description
 We aim to make a musical piano keyboard, where we could play the 12 keys of one octave on specific keys of the keyboard. We extended the shell that we built during the previous assignments by adding a `music` command which boots the console into a piano graphical interface, and interprets certain keystrokes as piano keys, playing sounds according to which instrument synth the user chooses. The program returns to normal shell function with the 'ESC' key, and a instrument synth can be choosen using the 'Z' key.
