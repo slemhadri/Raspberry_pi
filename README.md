@@ -1,6 +1,8 @@
 # Computer Architecture using Raspberry Pi 
 
-This repository contains an overview of what I learned while auditing Stanford's class on Computer Systems. Code is available upon request. 
+This repository contains an overview of what I learned while auditing [CS107: Computer Organization and Systems](http://web.stanford.edu/class/cs107/), at Stanford University. 
+
+Code available upon request, by contacting: salma.lemhadri@hec.edu
 
 ## The Course Content 
 
